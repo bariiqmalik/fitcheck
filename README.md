@@ -195,3 +195,9 @@ Fitting Room uses a minimalist modern luxury palette:
 - **Row Level Security (RLS)** is enabled on all tables.
 - Storage objects are partitioned into folders named with the user's UUID (`auth.uid()`).
 - The `delete_user_account()` database function cascades deletions across all profile records, wardrobe items, saved outfits, and storage files.
+
+---
+
+## ⭐ Support & Star
+
+If you love the concept of an AI-powered personal stylist and smart wardrobe, **please drop a star (⭐) on this repository!**
