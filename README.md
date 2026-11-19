@@ -201,3 +201,12 @@ Fitting Room uses a minimalist modern luxury palette:
 ## ⭐ Support & Star
 
 If you love the concept of an AI-powered personal stylist and smart wardrobe, **please drop a star (⭐) on this repository!**
+
+---
+
+## 🔍 Explore More Projects by Bariq Malik
+
+- 🎓 **[UniGrade Pro](https://github.com/bariiqmalik/unigrade-pro)** — Modern academic grade tracking, GPA/CGPA computation, and attendance predictor ([Live App](https://unigrade-pro.vercel.app)).
+- ⚡ **[netopt](https://github.com/bariiqmalik/netopt)** — High-performance C++20 network cabling optimization engine ([Live Benchmark Demo](https://bariiqmalik.github.io/netopt/)).
+- 🌾 **[Kisan Mandi Connect](https://github.com/bariiqmalik/kisan-mandi-connect)** — Indian agritech logistics solver using Dijkstra & 0/1 Knapsack DP in Core Java.
+- 💼 **[Portfolio](https://github.com/bariiqmalik/portfolio)** — Developer portfolio ([Live Site](https://bariiqmalik.github.io/portfolio/)).
